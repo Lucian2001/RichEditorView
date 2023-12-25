@@ -69,8 +69,8 @@ div {
     font-size: 14pt;
 }
 span {
-    font: -apple-system-body;
-    font-size: unset;
+    font: -apple-system-body !important;
+    font-size: unset !important;
 }
 
 input[type=checkbox] {
