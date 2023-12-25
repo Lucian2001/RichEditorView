@@ -65,7 +65,12 @@ div {
     height: 100%;
     overflow: auto;
     display: block;
-    font-size: 12pt;
+    font: -apple-system-body;
+    font-size: 14pt;
+}
+span {
+    font: -apple-system-body;
+    font-size: unset;
 }
 
 input[type=checkbox] {
